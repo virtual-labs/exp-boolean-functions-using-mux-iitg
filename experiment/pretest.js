@@ -100,7 +100,7 @@
         },
 
     {
-      question: "A digital multiplexer is a combinational circuit that selects",  ///// Write the question inside double quotes
+      question: "2.A digital multiplexer is a combinational circuit that selects",  ///// Write the question inside double quotes
       answers: {
         a: "One digital information from several sources and transmits the selected one",                  ///// Write the option 1 inside double quotes
         b: "Many digital information and convert them into one",                  ///// Write the option 2 inside double quotes
