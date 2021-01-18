@@ -89,24 +89,39 @@
 
 
     const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+            question: "1.In a multiplexer, the selection of a particular input line is controlled by:", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
+                a: "Data controller", ///// Write the option 1 inside double quotes
+                b: "Selected lines", ///// Write the option 2 inside double quotes
+                c: "Logic gates",
+                d: "Both data controller and selected lines"
             },
-            correctAnswer: "a" ///// Write the correct option inside double quotes
+            correctAnswer: "b" ///// Write the correct option inside double quotes
         },
 
     {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
+      question: "2. How many select lines would be required for an 8-line-to-1-line multiplexer?",  ///// Write the question inside double quotes
       answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
+        a: "2",                  ///// Write the option 1 inside double quotes
+        b: "4",                  ///// Write the option 2 inside double quotes
+        c: "8", 
+        d: "3",
+      
+      },
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
     },
 
-
+ {
+      question: "3.Two input multiplexer would have?",  ///// Write the question inside double quotes
+      answers: {
+        a: "1 select line",                  ///// Write the option 1 inside double quotes
+        b: "2 select lines",                  ///// Write the option 2 inside double quotes
+        c: "4 select lines", 
+        d: "3 select lines",
+      
+      },
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
+    },
         
     ];
 
