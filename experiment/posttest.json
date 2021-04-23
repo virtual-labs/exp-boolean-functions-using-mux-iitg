@@ -1,1 +1,28 @@
-[{"question":"1.In a multiplexer, the selection of a particular input line is controlled by:","answers":{"a":"Data controller","b":"Selected lines","c":"Logic gates","d":"Both data controller and selected lines"},"correctAnswer":"b"},{"question":"2. How many select lines would be required for an 8-line-to-1-line multiplexer?","answers":{"a":"2","b":"4","c":"8","d":"3"},"correctAnswer":"d"},{"question":"3.Two input multiplexer would have?","answers":{"a":"1 select line","b":"2 select lines","c":"4 select lines","d":"3 select lines"},"correctAnswer":"a"}]
+[{
+	"question": "1.In a multiplexer, the selection of a particular input line is controlled by:",
+	"answers": {
+		"a": "Data controller",
+		"b": "Selected lines",
+		"c": "Logic gates",
+		"d": "Both data controller and selected lines"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "2. How many select lines would be required for an 8-line-to-1-line multiplexer?",
+	"answers": {
+		"a": "2",
+		"b": "4",
+		"c": "8",
+		"d": "3"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "3.Two input multiplexer would have?",
+	"answers": {
+		"a": "1 select line",
+		"b": "2 select lines",
+		"c": "4 select lines",
+		"d": "3 select lines"
+	},
+	"correctAnswer": "a"
+}]
